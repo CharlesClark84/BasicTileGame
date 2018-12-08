@@ -1,6 +1,5 @@
 # BasicTileGame
-tile map game made to learn more about programming
+tile map game made for fun
 
 
-* [Game Image](../gameImage.png)
-* [Form](../indieprojectform.png)
+* [Game Image](gameImage.png)
