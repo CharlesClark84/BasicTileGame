@@ -2,4 +2,4 @@
 tile map game made for fun
 
 
-* [Game Image](gameImage.png)
+* [Game Image](gameImage.PNG)
