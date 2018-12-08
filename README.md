@@ -2,4 +2,4 @@
 tile map game made to learn more about programming
 
 
-* [Game Image](../gameImage.png)
+* [Game Image](../gameImage.PNG)
